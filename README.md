@@ -8,7 +8,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ## Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
-print(''git clone https://github.com/Berkcan7/kodluyoruzilkrepo.git'')
+git clone https://github.com/Berkcan7/kodluyoruzilkrepo.git
 ```
 
 # Usage 
@@ -18,7 +18,8 @@ print(''git clone https://github.com/Berkcan7/kodluyoruzilkrepo.git'')
 
 ## Linux için:
 ```
-print(''cd kodluyoruzilk repo code .)
+cd kodluyoruzilk repo
+code.
 ```
 
 # License
